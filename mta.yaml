@@ -1,0 +1,9 @@
+ID: sapui5_application
+_schema-version: '2.0'
+version: 0.0.1
+description: gies helllo world
+
+modules:
+ - name: web
+   type: html5
+   path: web
